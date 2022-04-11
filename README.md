@@ -1,4 +1,4 @@
-<img width="520" align="left" src="/"/>
+<h1>Welcome!</h1>
 
 
 <img align='right' src="https://giphy.com/stickers/mrurbinaco-mr-urbina-office-paTz7UZbPfTZFRYnnB" width="450"> <br>
