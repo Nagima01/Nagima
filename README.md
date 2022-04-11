@@ -8,7 +8,7 @@
 
 <br>
 
-<h3 align="center">A frontend developer from Kyrgyzstan</h3>
+<h3 align="left">About me :</h3>
 
 <h3 align="left">Connect with me:</h3> 
     <a href="https://t.me/nagima_nb\" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos/telegram.svg" alt="gmail" width="40" height="40"/> </a> 
