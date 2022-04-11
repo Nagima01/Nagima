@@ -1,7 +1,7 @@
 <h1>Welcome!</h1>
 
 
-<img align='right' src="https://giphy.com/stickers/mrurbinaco-mr-urbina-office-paTz7UZbPfTZFRYnnB" width="450"> <br>
+<img align='right' src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="450"> <br>
 
 
 
